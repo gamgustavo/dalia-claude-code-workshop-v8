@@ -1,4 +1,4 @@
 from datetime import datetime
 
-print("¡Hola Mundo!")
-print(f"Fecha actual: {datetime.now().strftime('%d de %B de %Y, %H:%M:%S')}")
+print("Hello World!")
+print(f"Current date: {datetime.now().strftime('%B %d, %Y, %H:%M:%S')}")
