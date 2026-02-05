@@ -1,4 +1,15 @@
 from datetime import datetime
 
+print("=" * 50)
+print("       Welcome to the Python World!")
+print("=" * 50)
+print()
 print("Hello World!")
+print("Greetings from this simple Python script.")
+print("Hope you're having a wonderful day!")
+print()
 print(f"Current date: {datetime.now().strftime('%B %d, %Y, %H:%M:%S')}")
+print()
+print("=" * 50)
+print("      Thank you for running this program!")
+print("=" * 50)
